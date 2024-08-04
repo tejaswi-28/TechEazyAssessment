@@ -23,6 +23,7 @@ npm install -g @angular/cli
 
 3.Install dependencies:
   - npm install
+  - Ensure you have node_modules file available in the project
 
 #Running the Application
 
