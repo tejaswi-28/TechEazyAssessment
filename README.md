@@ -86,3 +86,4 @@ git clone https://github.com/yourusername/my-spring-boot-backend.git
 
 -- Ensure that your SpringBoot project and angular project are in running state
 -- refresh is compulsory after click on fetch data
+-- JWT Tokens are not used in the following project
